@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "catalog": {
+    "offers": [
+      {
+        "offer_id": "offer_001",
+        "active": true,
+        "provider": "Vodafone",
+        "product_type": "mobilfunk",
+        "name": "GigaMobil S",
+        "short_description": "Allnet Flat mit 35 GB",
+        "price_amount": 29.99,
+        "price_period": "month",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_002",
+        "active": true,
+        "provider": "DVAG",
+        "product_type": "versicherung",
+        "name": "Privat-Haftpflicht",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      }
+    ]
+  },
+  "skipped_rows": []
+}
