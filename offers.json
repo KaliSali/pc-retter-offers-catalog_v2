@@ -5,14 +5,16 @@
       {
         "offer_id": "offer_001",
         "active": true,
-        "provider": "Vodafone",
+        "provider": "Vodavon",
         "product_type": "mobilfunk",
-        "name": "GigaMobil S",
-        "short_description": "Allnet Flat mit 35 GB",
-        "price_amount": 29.99,
+        "name": "Vodafone GigaMobil XS",
+        "short_description": "Allnet Flat",
+        "price_amount": 22.49,
         "price_period": "month",
-        "notes": null,
-        "attributes": {}
+        "notes": "Ab dem 25. Monat 29.99",
+        "attributes": {
+          "datenvolumen": "25 GB"
+        }
       },
       {
         "offer_id": "offer_002",
@@ -25,6 +27,76 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_003",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil S",
+        "short_description": "Allnet Flat",
+        "price_amount": 29.99,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 39.99",
+        "attributes": {
+          "datenvolumen": "35 GB"
+        }
+      },
+      {
+        "offer_id": "offer_004",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil M",
+        "short_description": "Allnet Flat",
+        "price_amount": 37.49,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 49.99",
+        "attributes": {
+          "datenvolumen": "100 GB"
+        }
+      },
+      {
+        "offer_id": "offer_005",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil L",
+        "short_description": "Allnet Flat",
+        "price_amount": 44.99,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 59.99",
+        "attributes": {
+          "datenvolumen": "280 GB"
+        }
+      },
+      {
+        "offer_id": "offer_006",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil XL",
+        "short_description": "Allnet Flat",
+        "price_amount": 59.99,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 79.99",
+        "attributes": {
+          "datenvolumen": "unlimited"
+        }
+      },
+      {
+        "offer_id": "offer_007",
+        "active": true,
+        "provider": "Vodavon",
+        "product_type": "mobilfunk",
+        "name": "Vodafone GigaMobil Young XS",
+        "short_description": "Allnet Flat",
+        "price_amount": 14.99,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat 19.99",
+        "attributes": {
+          "datenvolumen": "20 GB"
+        }
       }
     ]
   },
