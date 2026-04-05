@@ -94,7 +94,9 @@
         "price_amount": 14.99,
         "price_period": "month",
         "notes": "Ab dem 25. Monat 19.99",
-        "attributes": {}
+        "attributes": {
+          "datenvolumen": "20 GB"
+        }
       }
     ]
   },
