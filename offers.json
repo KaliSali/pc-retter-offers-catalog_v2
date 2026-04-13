@@ -117,21 +117,16 @@
         "active": true,
         "provider": "Telekom",
         "product_type": "mobilfunk",
-        "name": "MagentaMobil",
+        "name": "MagentaMobil S",
         "short_description": "Allnet Flat",
-        "price_amount": null,
+        "price_amount": 39.95,
         "price_period": null,
-        "notes": null,
-        "attributes": {}
+        "notes": "Ab dem 25. Monat Keine Preisänderung",
+        "attributes": {
+          "datenvolumen": "30 GB"
+        }
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 11,
-      "offer_id": null,
-      "reason": "inactive",
-      "missingRequiredValues": []
-    }
-  ]
+  "skipped_rows": []
 }
