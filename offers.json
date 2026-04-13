@@ -179,6 +179,42 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_014",
+        "active": true,
+        "provider": "DVAG",
+        "product_type": "versicherung",
+        "name": "Versicherungen",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_015",
+        "active": true,
+        "provider": "DVAG",
+        "product_type": "versicherung",
+        "name": "Solaranlagen",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_016",
+        "active": true,
+        "provider": "DVAG",
+        "product_type": "versicherung",
+        "name": "Bankprodukte",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
