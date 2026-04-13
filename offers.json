@@ -120,7 +120,7 @@
         "name": "MagentaMobil S",
         "short_description": "Allnet Flat",
         "price_amount": 39.95,
-        "price_period": null,
+        "price_period": "month",
         "notes": "Ab dem 25. Monat Keine Preisänderung",
         "attributes": {
           "datenvolumen": "30 GB"
@@ -128,5 +128,14 @@
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 11,
+      "offer_id": "offer_010",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
+    }
+  ]
 }
