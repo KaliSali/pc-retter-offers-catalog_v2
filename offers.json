@@ -125,17 +125,20 @@
         "attributes": {
           "datenvolumen": "30 GB"
         }
+      },
+      {
+        "offer_id": "offer_010",
+        "active": true,
+        "provider": "Telekom",
+        "product_type": "mobilfunk",
+        "name": "MagentaMobil M",
+        "short_description": "Allnet Flat",
+        "price_amount": 49.95,
+        "price_period": "month",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 11,
-      "offer_id": "offer_010",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    }
-  ]
+  "skipped_rows": []
 }
