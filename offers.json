@@ -147,6 +147,20 @@
         "product_type": "mobilfunk",
         "name": "MagentaMobil L",
         "short_description": "Allnet Flat",
+        "price_amount": 59.95,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat Keine Preisänderung",
+        "attributes": {
+          "datenvolumen": "100 GB"
+        }
+      },
+      {
+        "offer_id": "offer_012",
+        "active": true,
+        "provider": "Telekom",
+        "product_type": "mobilfunk",
+        "name": "MagentaMobil",
+        "short_description": null,
         "price_amount": null,
         "price_period": null,
         "notes": null,
