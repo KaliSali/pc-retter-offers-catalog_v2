@@ -107,8 +107,10 @@
         "short_description": "Allnet Flat",
         "price_amount": 1.99,
         "price_period": "month",
-        "notes": null,
-        "attributes": {}
+        "notes": "Ab dem 25. Monat 19.99",
+        "attributes": {
+          "datenvolumen": "20 GB"
+        }
       }
     ]
   },
