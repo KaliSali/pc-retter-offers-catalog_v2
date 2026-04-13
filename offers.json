@@ -101,11 +101,11 @@
       {
         "offer_id": "offer_008",
         "active": true,
-        "provider": "1 und 1",
+        "provider": "Telekom",
         "product_type": "mobilfunk",
-        "name": "Testangebot",
+        "name": "MagentaMobil\r\nXS",
         "short_description": "Allnet Flat",
-        "price_amount": 1.99,
+        "price_amount": 29.95,
         "price_period": "month",
         "notes": "Ab dem 25. Monat 19.99",
         "attributes": {
