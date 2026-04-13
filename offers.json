@@ -111,8 +111,27 @@
         "attributes": {
           "datenvolumen": "20 GB"
         }
+      },
+      {
+        "offer_id": "offer_009",
+        "active": true,
+        "provider": "Telekom",
+        "product_type": "mobilfunk",
+        "name": "MagentaMobil",
+        "short_description": "Allnet Flat",
+        "price_amount": null,
+        "price_period": null,
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 11,
+      "offer_id": null,
+      "reason": "inactive",
+      "missingRequiredValues": []
+    }
+  ]
 }
