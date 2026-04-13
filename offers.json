@@ -135,10 +135,21 @@
         "short_description": "Allnet Flat",
         "price_amount": 49.95,
         "price_period": "month",
-        "notes": null,
-        "attributes": {}
+        "notes": "Ab dem 25. Monat Keine Preisänderung",
+        "attributes": {
+          "datenvolumen": "50 GB"
+        }
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 12,
+      "offer_id": "offer_011",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
+    }
+  ]
 }
