@@ -139,17 +139,20 @@
         "attributes": {
           "datenvolumen": "50 GB"
         }
+      },
+      {
+        "offer_id": "offer_011",
+        "active": true,
+        "provider": "Telekom",
+        "product_type": "mobilfunk",
+        "name": "MagentaMobil L",
+        "short_description": "Allnet Flat",
+        "price_amount": null,
+        "price_period": null,
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 12,
-      "offer_id": "offer_011",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    }
-  ]
+  "skipped_rows": []
 }
