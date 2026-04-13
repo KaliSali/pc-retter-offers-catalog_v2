@@ -21,7 +21,7 @@
         "active": true,
         "provider": "DVAG",
         "product_type": "versicherung",
-        "name": "Privat-Haftpflicht",
+        "name": "Geldanlagen",
         "short_description": "Basisabsicherung",
         "price_amount": null,
         "price_period": "unknown",
@@ -167,6 +167,18 @@
         "attributes": {
           "datenvolumen": "Deutschlandweit unbegrenztes Highspeed-Volumen"
         }
+      },
+      {
+        "offer_id": "offer_013",
+        "active": true,
+        "provider": "DVAG",
+        "product_type": "versicherung",
+        "name": "Baufinanzierung",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
