@@ -104,9 +104,9 @@
         "provider": "1 und 1",
         "product_type": "mobilfunk",
         "name": "Testangebot",
-        "short_description": null,
-        "price_amount": null,
-        "price_period": null,
+        "short_description": "Allnet Flat",
+        "price_amount": 1.99,
+        "price_period": "month",
         "notes": null,
         "attributes": {}
       }
