@@ -159,12 +159,14 @@
         "active": true,
         "provider": "Telekom",
         "product_type": "mobilfunk",
-        "name": "MagentaMobil",
-        "short_description": null,
-        "price_amount": null,
-        "price_period": null,
-        "notes": null,
-        "attributes": {}
+        "name": "MagentaMobil XL",
+        "short_description": "Allnet Flat",
+        "price_amount": 84.95,
+        "price_period": "month",
+        "notes": "Ab dem 25. Monat Keine Preisänderung",
+        "attributes": {
+          "datenvolumen": "Deutschlandweit unbegrenztes Highspeed-Volumen"
+        }
       }
     ]
   },
