@@ -218,5 +218,14 @@
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 18,
+      "offer_id": "offer_017",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
+    }
+  ]
 }
