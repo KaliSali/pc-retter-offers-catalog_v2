@@ -323,17 +323,44 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_026",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Berufsunfähigkeit",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_027",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Lebensversicherung & Sterbegeld",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_028",
+        "active": true,
+        "provider": "PC Retter",
+        "product_type": "versicherung",
+        "name": "KFZ Moped Versicherung",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "year",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 27,
-      "offer_id": "offer_026",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    }
-  ]
+  "skipped_rows": []
 }
