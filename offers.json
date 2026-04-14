@@ -239,15 +239,41 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_019",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Gebäudeversicherung",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_020",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Unfallversicherung",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
   "skipped_rows": [
     {
-      "rowIndex": 20,
-      "offer_id": "offer_019",
-      "reason": "inactive",
-      "missingRequiredValues": []
+      "rowIndex": 22,
+      "offer_id": "offer_021",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
     }
   ]
 }
