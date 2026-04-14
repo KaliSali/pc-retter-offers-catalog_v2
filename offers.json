@@ -299,8 +299,41 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_024",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Geschäftsversicherungen",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_025",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Reiseversicherungen",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 27,
+      "offer_id": "offer_026",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
+    }
+  ]
 }
