@@ -185,7 +185,7 @@
         "active": true,
         "provider": "DVAG",
         "product_type": "versicherung",
-        "name": "Versicherungen",
+        "name": "Privathaftpflicht",
         "short_description": "Basisabsicherung",
         "price_amount": null,
         "price_period": "unknown",
