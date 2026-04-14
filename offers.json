@@ -359,15 +359,29 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_029",
+        "active": true,
+        "provider": "PC Retter",
+        "product_type": "Shop Service",
+        "name": "Kopie Schwarz",
+        "short_description": "Shop",
+        "price_amount": 0.3,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
   "skipped_rows": [
     {
-      "rowIndex": 30,
-      "offer_id": "offer_029",
-      "reason": "inactive",
-      "missingRequiredValues": []
+      "rowIndex": 31,
+      "offer_id": "offer_030",
+      "reason": "missing_required_values",
+      "missingRequiredValues": [
+        "name"
+      ]
     }
   ]
 }
