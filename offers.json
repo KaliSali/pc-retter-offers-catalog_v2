@@ -227,18 +227,22 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_018",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Hausrat",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
   "skipped_rows": [
-    {
-      "rowIndex": 19,
-      "offer_id": "offer_018",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    },
     {
       "rowIndex": 20,
       "offer_id": "offer_019",
