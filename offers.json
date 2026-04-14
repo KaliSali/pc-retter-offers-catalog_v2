@@ -395,17 +395,20 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_032",
+        "active": true,
+        "provider": "PC Retter",
+        "product_type": "Shop Service",
+        "name": "Plakatdruck bis DIN A 1",
+        "short_description": "Shop",
+        "price_amount": 17.85,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 33,
-      "offer_id": "offer_032",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    }
-  ]
+  "skipped_rows": []
 }
