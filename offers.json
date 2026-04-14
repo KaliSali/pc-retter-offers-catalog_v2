@@ -371,13 +371,37 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_030",
+        "active": true,
+        "provider": "PC Retter",
+        "product_type": "Shop Service",
+        "name": "Kopie Farbe",
+        "short_description": "Shop",
+        "price_amount": 1,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_031",
+        "active": true,
+        "provider": "PC Retter",
+        "product_type": "Shop Service",
+        "name": "Fotodruck 10x 15 bis DIN A3 Plus",
+        "short_description": "Shop",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
   "skipped_rows": [
     {
-      "rowIndex": 31,
-      "offer_id": "offer_030",
+      "rowIndex": 33,
+      "offer_id": "offer_032",
       "reason": "missing_required_values",
       "missingRequiredValues": [
         "name"
