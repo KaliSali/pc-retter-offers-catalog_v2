@@ -263,17 +263,44 @@
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
+      },
+      {
+        "offer_id": "offer_021",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Rechtschutz",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_022",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Zahnversicherung",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
+      },
+      {
+        "offer_id": "offer_023",
+        "active": true,
+        "provider": "Templiner Maklerverbund",
+        "product_type": "versicherung",
+        "name": "Krankentagegeld",
+        "short_description": "Basisabsicherung",
+        "price_amount": null,
+        "price_period": "unknown",
+        "notes": null,
+        "attributes": {}
       }
     ]
   },
-  "skipped_rows": [
-    {
-      "rowIndex": 22,
-      "offer_id": "offer_021",
-      "reason": "missing_required_values",
-      "missingRequiredValues": [
-        "name"
-      ]
-    }
-  ]
+  "skipped_rows": []
 }
