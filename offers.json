@@ -356,7 +356,7 @@
         "name": "KFZ Moped Versicherung",
         "short_description": "Basisabsicherung",
         "price_amount": null,
-        "price_period": "year",
+        "price_period": "unknown",
         "notes": null,
         "attributes": {}
       }
