@@ -355,12 +355,19 @@
         "product_type": "versicherung",
         "name": "KFZ Moped Versicherung",
         "short_description": "Basisabsicherung",
-        "price_amount": null,
+        "price_amount": 35,
         "price_period": "unknown",
         "notes": null,
         "attributes": {}
       }
     ]
   },
-  "skipped_rows": []
+  "skipped_rows": [
+    {
+      "rowIndex": 30,
+      "offer_id": "offer_029",
+      "reason": "inactive",
+      "missingRequiredValues": []
+    }
+  ]
 }
