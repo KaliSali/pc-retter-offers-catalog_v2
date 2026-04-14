@@ -238,6 +238,12 @@
       "missingRequiredValues": [
         "name"
       ]
+    },
+    {
+      "rowIndex": 20,
+      "offer_id": "offer_019",
+      "reason": "inactive",
+      "missingRequiredValues": []
     }
   ]
 }
