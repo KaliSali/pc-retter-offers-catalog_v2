@@ -5,7 +5,7 @@
       {
         "offer_id": "offer_001",
         "active": true,
-        "provider": "Vodavon",
+        "provider": "Vodafone",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil XS",
         "short_description": "Allnet Flat",
@@ -31,7 +31,7 @@
       {
         "offer_id": "offer_003",
         "active": true,
-        "provider": "Vodavon",
+        "provider": "Vodafone",
         "product_type": "mobilfunk",
         "name": "Vodafone GigaMobil S",
         "short_description": "Allnet Flat",
